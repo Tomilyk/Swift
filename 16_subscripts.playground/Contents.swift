@@ -56,7 +56,7 @@ struct Matrix{
     }
 }
     
-var matrix = Matrix(rows: 2, columns: 2)
+var matrix = Matrix(rows: 5, columns: 3)
 
 matrix[0, 1] = 1.5
 matrix[1, 0] = 2.5
